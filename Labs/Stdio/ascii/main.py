@@ -14,26 +14,26 @@
 
 print("Welcome to ASCII Art Program...\n")
 
-# FIXME3: prompt user to enter their name and store the value into name variable using input function
+# FIXME3: prompt user to enter their name and store the value into name variable using input function #FIXED
 
 name: str = input("What is your name? ")
 
 # FIXME4: greet the name using the variable as the following output
-# must output: Nice meeting you, <name>!
+# must output: Nice meeting you, <name>! #FIXED
 
 print("Nice to meet you, " + name + "!\n")
 
 
-# prompt user to enter the semester and store the value into semester variable using input function
+# prompt user to enter the semester and store the value into semester variable using input function #FIXED
 semester: str = input("What semester is this [Fall/Spring]? ")
 print("This is " + semester + " semester.\n")
 
-# FIXME5: prompt user to enter the year and store the value into year variable using input function
+# FIXME5: prompt user to enter the year and store the value into year variable using input function #FIXED
 
 year_input: str = input("What is the year? ")
 
 # FIXME6: print the year using the variable as the following output
-# must output: This is <year> year.
+# must output: This is <year> year. #FIXED
 
 print("This is " + year_input + "." )
 
@@ -42,23 +42,23 @@ print("Hope you like my ASCII art...\n\n")
 line1: str = "   |\\_/|       *****************************    (\\_/)"
 print(line1)
 
-# FIXME7: use variable to print the second line of the graphic
+# FIXME7: use variable to print the second line of the graphic #FIXED
 
 secondLine: str = "  / @ @ \      *        ASCII Lab          *   (='.'=)"
 print(secondLine)
 
-# FIXME8: print the third line of the graphics
+# FIXME8: print the third line of the graphics #FIXED
 
 thirdLine: str = ' ( > 0 < )     *      Janet Griffin        * ( " )_( " )'
 print(thirdLine)
 
 
-# FIXME9: use variable to print the fourth line
+# FIXME9: use variable to print the fourth line #FIXED
 
 fourthLine: str = "   >>x<<       *       Spring 2024         *"
 print(fourthLine)
 
-# FIXME10: use variable to print the fifth line
+# FIXME10: use variable to print the fifth line #FIXED
 
 fifthLine: str = "  /  O  \      *        CSCI 110           *"
 print(fifthLine)

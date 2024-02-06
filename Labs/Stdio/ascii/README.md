@@ -19,6 +19,6 @@ ________________________________________________________________________________
 | Name: | ASCII Art |
 | Description: | "ASCII Art" |
 | Due Date: | 2/6/2024|
-| Status: | In Progress |
-| Location:  | 
-| Notes: | In Progress|
+| Status: | Complete |
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/Stdio/ascii/main.py | 
+| Notes: | Complete|
