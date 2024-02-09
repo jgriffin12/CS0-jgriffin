@@ -2,7 +2,7 @@
 
 | Basic Info | --- |
 | --- | ---|
-| Course: | CSCI110 - CS0: Beginning Programming Lab: Python|
+| Course: | CSCI110 - CS0: Beginning Programming: Python|
 | Semester: | Spring 2024 |
 | Instructor: | Corin Chepko |
 | Mav Username: | jgriffin4 |
@@ -20,5 +20,5 @@ ________________________________________________________________________________
 | Description: | "Four Seasons - ASCII Art" |
 | Due Date: | 2/9/2024|
 | Status: | Complete |
-| Location: | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/commit/a94444806682c60bb26be0356db410e95565b631#diff-aae8e93e8943dbf3e1ebce8e86e5b5a7db70925a2772fbc7942ac206a8db239f | 
 | Notes: | Complete|
