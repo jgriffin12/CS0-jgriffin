@@ -22,3 +22,8 @@ ________________________________________________________________________________
 | Status: | Complete |
 | Location: https://github.com/jgriffin12/CS0-jgriffin/commit/a94444806682c60bb26be0356db410e95565b631#diff-aae8e93e8943dbf3e1ebce8e86e5b5a7db70925a2772fbc7942ac206a8db239f | 
 | Notes: | Complete|
+| Self Grading: 
+    - Program prints 4 ASCII art pieces (Seasons).
+    - Met all requirements,
+    - Ran and tested program many times. 
+    - I deserve 100% grade. 
