@@ -20,7 +20,7 @@ ________________________________________________________________________________
 | Description: | User inputs radius of a circle. Program finds and calculates area and circumference.|
 | Due Date: | 2/15/2024|
 | Status: | Complete|
-| Location:  | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/circle/circle.py | 
 | Notes: | 
 -Program finds area and circumference given radius. 
 -Fixed all  of the FIXMEs
