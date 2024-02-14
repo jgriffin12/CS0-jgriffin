@@ -13,12 +13,12 @@ ________________________________________________________________________________
 
 # LABS
 
-## Lab #1
+## Lab #2a
 | Name | Value |
 | --- | --- |
 | Name: | Math |
 | Description: | Add Two Numbers |
 | Due Date: | 2/15/2024|
 | Status: | Complete|
-| Location: | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/math/addtwonumbers/main.py | 
 | Notes: | Complete |
