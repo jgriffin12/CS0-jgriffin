@@ -47,7 +47,7 @@ ________________________________________________________________________________
 | Description: | Add Two Numbers |
 | Due Date: | 2/15/2024|
 | Status: | Complete|
-| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/math/addtwonumbers/main.py | 
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/math/addtwonumbers/main.py | 
 | Notes: | Complete |
 
 ## Lab #2b
@@ -56,8 +56,8 @@ ________________________________________________________________________________
 | Name: | Circle|
 | Description: | User inputs radius of a circle. Program finds and calculates area and circumference.|
 | Due Date: | 2/15/2024|
-| Status: | Complete|
-| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/circle/circle.py | 
+| Status: | Complete |
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/circle/circle.py | 
 | Notes: | 
 -Program finds area and circumference given radius. 
 -Fixed all  of the FIXMEs
@@ -69,9 +69,10 @@ ________________________________________________________________________________
 | --- | --- |
 | Name: | Functions |
 | Description: | Using various functions and seeing how they work.|
-| Due Date: | |
+| Due Date: | n/a |
 | Status: | Complete|
-| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/functions/main.py | 
-| Notes: -Fixed all of the FIXMEs.
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/functions/main.py | 
+| Notes: |
+-Fixed all of the FIXMEs.
 -Grade 100%
 -Ran and verified program results many times.  | 
