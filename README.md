@@ -35,7 +35,7 @@ ________________________________________________________________________________
 | Description: | Design a program using Python that finds the perimeter and area of a triangle given three sides by user. |
 | Due Date: | 02/17/2024|
 | Status: | Complete |
-| Location:  | 
+| Location:  https://github.com/jgriffin12/CS0-jgriffin/tree/main/Assignments/Triangle | 
 | Notes: | Complete|
 | Self Grading: 
    - Program finds area and perimeter of a triangle given 3 sides.
