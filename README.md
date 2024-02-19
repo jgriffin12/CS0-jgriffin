@@ -28,6 +28,21 @@ ________________________________________________________________________________
     - Ran and tested program many times. 
     - I deserve 100% grade. 
 
+## Assignment #2 - Triangle
+| Name | Value |
+| --- | --- |
+| Name: | Area and Perimeter of a Triangle |
+| Description: | Design a program using Python that finds the perimeter and area of a triangle given three sides by user. |
+| Due Date: | 02/17/2024|
+| Status: | Complete |
+| Location:  | 
+| Notes: | Complete|
+| Self Grading: 
+   - Program finds area and perimeter of a triangle given 3 sides.
+   - All the requirements are completed.
+   - Program tested at least 49 times
+   - Grade: 110/100
+
 # LABS
 
 ## Lab #1
