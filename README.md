@@ -71,8 +71,7 @@ ________________________________________________________________________________
 | Description: | Using various functions and seeing how they work.|
 | Due Date: | |
 | Status: | Complete|
-| Location: | 
-| Notes: | 
--Fixed all of the FIXMEs.
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/functions/main.py | 
+| Notes: -Fixed all of the FIXMEs.
 -Grade 100%
--Ran and verified program results many times. 
+-Ran and verified program results many times.  | 
