@@ -43,6 +43,23 @@ ________________________________________________________________________________
    - Program tested at least 49 times
    - Grade: 110/100
 
+## Assignment #3 - Functions
+| Name | Value |
+| --- | --- |
+| Name: | My Calculator Program |
+| Description: | Create a Python program that performms arithmetic operations given two numbers (by user). |
+| Due Date: | 02/28/2024|
+| Status: | Complete |
+| Location: | 
+| Notes: | Complete|
+| Self Grading: 
+   - Program computes various functons (add, subtract, multiply, divide, modulus, power, root).
+   - All the requirements are completed.
+   - Program tested at least 49 times
+   - Grade: 110/100
+
+   
+
 # LABS
 
 ## Lab #1
