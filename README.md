@@ -50,7 +50,7 @@ ________________________________________________________________________________
 | Description: | Create a Python program that performms arithmetic operations given two numbers (by user). |
 | Due Date: | 02/28/2024|
 | Status: | Complete |
-| Location: | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/Functions/functions.py | 
 | Notes: | Complete|
 | Self Grading: 
    - Program computes various functons (add, subtract, multiply, divide, modulus, power, root).
@@ -58,7 +58,7 @@ ________________________________________________________________________________
    - Program tested at least 49 times
    - Grade: 110/100
 
-   
+
 
 # LABS
 
