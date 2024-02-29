@@ -129,7 +129,7 @@ ________________________________________________________________________________
 | Description: | Using conditionals to to determine if number input by user is even/odd, positive, negative or a zero. |
 | Due Date: | 02/29/2024 |
 | Status: | Complete|
-| Location: | | 
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/Conditionals/conditionals.py | 
 | Notes: |
 -Fixed all of the FIXMEs.
 -Ran and verified program results many times. 
