@@ -65,7 +65,7 @@ ________________________________________________________________________________
 | Description: | Create a Python program that takes 5 numbers and takes the sum, product, average, min and max. |
 | Due Date: | 03/06/2024|
 | Status: | Complete |
-| Location:  | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/Conditionals/conditional.py | 
 | Notes: | Complete|
 | Self Grading: 
    - Program takes in 5 numbers and finds sum, product, average, min and max.
