@@ -80,7 +80,7 @@ ________________________________________________________________________________
 | Description: | This program will welcome user and ask the user to guess a number between 1-20. The program will loop until game is over (6 tries) |
 | Due Date: | 03/11/2024|
 | Status: | Complete |
-| Location: | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/guessNumber/loop.py | 
 | Notes: | Complete|
 | Self Grading: 
    - Met all requirements (90 pts)
