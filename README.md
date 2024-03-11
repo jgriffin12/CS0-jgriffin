@@ -73,6 +73,21 @@ ________________________________________________________________________________
    - Program tested at least 49 times
    - Grade: 110/100
 
+## Assignment #5 - Loops
+| Name | Value |
+| --- | --- |
+| Name: | Guess My Number Game|
+| Description: | This program will welcome user and ask the user to guess a number between 1-20. The program will loop until game is over (6 tries) |
+| Due Date: | 03/11/2024|
+| Status: | Complete |
+| Location: | 
+| Notes: | Complete|
+| Self Grading: 
+   - Met all requirements (90 pts)
+   - Updated ReadMe (10 pts)
+   - Program tested many times
+   - Grade: 100pts
+
 # LABS
 
 ## Lab #1
