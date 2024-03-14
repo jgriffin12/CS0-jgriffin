@@ -161,6 +161,34 @@ ________________________________________________________________________________
 | Notes: |
 -Fixed all of the FIXMEs.
 -Ran and verified program results many times. 
+-Grade 100% | 
+
+## Lab #6
+| Name | Value |
+| --- | --- |
+| Name: | Strings|
+| Description: | Program prompts user to enter a phrase and tells the user various properties about the phrase. |
+| Due Date: | 03/14/2024 |
+| Status: | Complete|
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/strings/strings.py | 
+| Notes: |
+-Fixed all of the FIXMEs.
+-Ran and verified program results many times. 
 -Grade 100%
--Ran and verified program results many times.  | 
+ 
+
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: | Kattis Problem: Hissing Microphone |
+| Description: | If word has 'ss' or more 'ssss...', program prints 'hiss'. If not, program prints 'no hiss'. |
+| Due Date: | 03/14/2024|
+| Status: | Complete|
+| Location: |  https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/strings/hissingmicrophone.py 
+| Screenshot: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/strings/hissingmicrophone.png 
+| Notes: |
+-Ran and verified program results many times. 
+-Grade 100%
+-Screenshot included. | 
+
 
