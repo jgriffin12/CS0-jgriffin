@@ -3,7 +3,7 @@ Lab - String
 By: Janet Griffin
 
 CSCI 110
-Date: 03/08/2024
+Date: 03/13/2023
 
 Program prompts user to enter a phrase and tells the user various properties about the phrase.
 """
@@ -55,14 +55,22 @@ def hasUpperCase(phrase):
 
 
 def hasDigit(phrase):
-    # FIXME1: return True if phrase has at least 1 digit, false otherwise
-    pass
+    # FIXED1: return True if phrase has at least 1 digit, false otherwise
+    for i in range(len(phrase)):
+        if phrase[i].isdigit():
+            return True
+    return False
+    #pass
 
 
 def hasSymbol(phrase):
-    # FIXME2: return True if phrase has at least one of these symbols: ~!@#$%
+    # FIXED2: return True if phrase has at least one of these symbols: ~!@#$%
     # return False otherwise
-    pass
+    
+    for i in range(len(phrase)):
+        if '~' in phrase or '!' in phrase or '@' in phrase or '#' in phrase or '$' in phrase or '%' in phrase:
+            return True 
+    return False
 
 
 def main():
@@ -70,6 +78,7 @@ def main():
 
     while True:
         phrase = input("Enter a word or phrase: ")
+        
 
         if isReversible(phrase):
             print("{} is reversible!".format(phrase))
@@ -83,14 +92,26 @@ def main():
         else:
             print('{} does not have an upper case character.'.format(phrase))
 
-        # FIXME3
+        # FIXED3
         # print if the phrase has a lower case character by calling the proper function
+        if hasLowerCase(phrase):
+            print('{} has an lower case character.'.format(phrase))
+        else:
+            print('{} does not have a lower case character.'.format(phrase))
 
-        # FIXME4
+        # FIXED4
         # print if the phrase has a digit by calling the proper function
+        if hasDigit(phrase):
+            print('{} has a digit.'.format(phrase))
+        else:
+            print('{} does not have a digit.'.format(phrase))
 
-        # FIXME5
+        # FIXED5
         # print if the phrase has a symbol by calling the proper function
+        if hasSymbol(phrase):
+            print('{} has a symbol.'.format(phrase))
+        else:
+            print('{} does not have a symbol.'.format(phrase))
 
         ans = input('Want to continue? [y/n]: ')
         ans = ans.lower()
