@@ -75,9 +75,8 @@ def answer(scores: List[int]) -> str:
     """
     max_score = max(scores)
     index = scores.index(max_score)
-    # FIXME 8: return the index+1 and the max number in the list as a string
+    # FIXED8: return the index+1 and the max number in the list as a string
     return f"{index + 1} {max_score}"
-
 
 if __name__ == "__main__":
     main()
