@@ -191,4 +191,15 @@ ________________________________________________________________________________
 -Grade 100%
 -Screenshot included. | 
 
+## Lab #7
+| Name | Value |
+| --- | --- |
+| Name: | Kattis Problem: Pet https://open.kattis.com/problems/pet |
+| Description: | 5 contestants score dinner. The program displays the winner's number and their score that they recieved.  |
+| Due Date: | 03/24/2024|
+| Status: | Complete|
+| Location:  |  
+| Notes: Kattis submission ran correctly and passed all test cases. Screenshot submitted.  |
+
+
 
