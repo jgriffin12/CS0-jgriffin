@@ -198,7 +198,7 @@ ________________________________________________________________________________
 | Description: | 5 contestants score dinner. The program displays the winner's number and their score that they recieved.  |
 | Due Date: | 03/24/2024|
 | Status: | Complete|
-| Location:  |  
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/lists/pet.py |  
 | Notes: Kattis submission ran correctly and passed all test cases. Screenshot submitted.  |
 
 
