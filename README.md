@@ -95,13 +95,13 @@ ________________________________________________________________________________
 | Description: | There will be 5 rows of input. This program will go through each input and point out any strings that contain 'FBI'. If so, the output will show the row numbers. If no CIA blimps are found, the output will be, "HE GOT AWAY! |
 | Due Date: | 03/29/2024|
 | Status: | Complete |
-| Location:  | 
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/avion/avion.py | 
 | Notes: | Complete|
 | Self Grading: 
    - Solution accepted on Kattis (70 pts)
    - Updated ReadMe (5 pts)
    - Screenshot (5 pts)
-   - 3 test cases included. (0) - I kept on having issues with test cases. In progress..
+   - 3 test cases included. (0) - I kept on having issues with test cases. Work in progress..
 
 # LABS
 
