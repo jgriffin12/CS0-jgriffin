@@ -216,5 +216,14 @@ ________________________________________________________________________________
 | Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/lists/pet.py |  
 | Notes: Kattis submission ran correctly and passed all test cases. Screenshot submitted.  |
 
+## Lab #8
+| Name | Value |
+| --- | --- |
+| Name: | Dictionary Data Structure Lab |
+| Description: | This program stores several states inside a dictionary. It allows user to access various information (US code/US capitol/US Name) depending on what menu option is chosen. 
+| Due Date: | 04/10/2024|
+| Status: | Complete|
+| Location: |  
+| Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
 
 
