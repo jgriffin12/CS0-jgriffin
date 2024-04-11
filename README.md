@@ -103,6 +103,22 @@ ________________________________________________________________________________
    - Screenshot (5 pts)
    - 3 test cases included. (0) - I kept on having issues with test cases. Work in progress..
 
+## Assignment #7 - Strings
+| Name | Value |
+| --- | --- |
+| Name: | Simon Says - Kattis Problem https://open.kattis.com/problems/simonsays
+| Description: | For each input that begins with, "Simon says", the program should listen to what the input says. If the input does not begin with,
+ "Simon says", ignore the instruction.  |
+| Due Date: | 04/10/2024|
+| Status: | Complete |
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/simonsays/simonsays.py | 
+| Notes: | Complete|
+| Self Grading: 
+   - Solution accepted on Kattis (70 pts)
+   - Updated ReadMe (5 pts)
+   - Screenshot (5 pts)
+   - 3 test cases included. 
+   - Grade: 100/100
 # LABS
 
 ## Lab #1
