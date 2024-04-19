@@ -242,3 +242,12 @@ ________________________________________________________________________________
 | Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/dict/dict.py |  
 | Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
 
+## Lab #9
+| Name | Value |
+| --- | --- |
+| Name: | Fileio |
+| Description: | This program reads a file named numbers.txt and places numbers into a list. The program then outputs that information into a seperate output file and sorts list (ascending/descending, min/max). 
+| Due Date: | 04/18/2024|
+| Status: | Complete|
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/fileio/fileio.py |  
+| Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
