@@ -119,6 +119,24 @@ ________________________________________________________________________________
    - Screenshot (5 pts)
    - 3 test cases included. 
    - Grade: 100/100
+
+## Assignment #7 - Strings
+| Name | Value |
+| --- | --- |
+| Name: | Fallingapart - Kattis Problem 
+| Description: | Couple Bob and Alice are separating. For the divorce settlement, they must split their shared integer. Both parties like to pick 
+the largest integer and so on (Alice picks first).  |
+| Due Date: | 04/19/2024|
+| Status: | Complete |
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/fallingapart/fallingapart.py | 
+| Notes: | Complete|
+| Self Grading: 
+   - Solution accepted on Kattis (70 pts)
+   - Updated ReadMe (5 pts)
+   - Screenshot (5 pts)
+   - 3 test cases included. 
+   - Grade: 100/100
+
 # LABS
 
 ## Lab #1
