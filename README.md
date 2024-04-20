@@ -120,7 +120,7 @@ ________________________________________________________________________________
    - 3 test cases included. 
    - Grade: 100/100
 
-## Assignment #7 - Strings
+## Assignment #8 - Lists
 | Name | Value |
 | --- | --- |
 | Name: | Fallingapart - Kattis Problem 
