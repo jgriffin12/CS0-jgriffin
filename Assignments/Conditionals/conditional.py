@@ -18,46 +18,30 @@ def product(num1, num2, num3, num4, num5):
 # Function called average that uses the sum function to calculate average of 5 numbers. 
 def average(num1, num2, num3, num4, num5):
     average = sum(num1, num2, num3, num4, num5) / 5
-    print("Average of (", num1, "+" ,num2, "+", num3, "+", num4, "+", num5, ") / 5 =", average)
+    return average 
 
 # Function called largestNumber that takes 5 numbers and finds the largest value. 
 def largestNumber(num1, num2, num3, num4, num5):
-    if (num1 > num2 and num1 > num3 and num1 > num4 and num1 > num5):
-        print("The largest number is", num1)
-    elif(num2 > num1 and num2 > num3 and num2 > num4 and num2 > num5):
-        print("The largest number is", num2)
-    elif(num3 > num1 and num3 > num2 and num3 > num4 and num3 > num5):
-        print("The larget number is", num3)
-    elif(num4 > num1 and num4 > num2 and num4 > num3 and num4 > num5):
-        print("The largest number is", num4)
-    else:
-        print("The largest number is", num5)
+    large_num = max(num1, num2, num3, num4, num5)
+    return large_num
 
 # Function called smallestNumber that takes 5 numbers and finds the smallest value. 
 def smallestNumber(num1, num2, num3, num4, num5):
-    if (num1 < num2 and num1 < num3 and num1 < num4 and num1 < num5):
-        print("The smallest number is", num1)
-    elif(num2 < num1 and num2 < num3 and num2 < num4 and num2 < num5):
-        print("The smallest number is", num2)
-    elif(num3 < num1 and num3 < num2 and num3 < num4 and num3 < num5):
-        print("The smallest number is", num3)
-    elif(num4 < num1 and num4 < num2 and num4 < num3 and num4 < num5):
-        print("The smallest number is", num4)
-    else:
-        print("The smallest number is", num5)
+    small_num = min(num1, num2, num3, num4, num5)
+    return small_num
 
 # Test functions
-def test(num1, num2, num3, num4, num5):
-    assert (sum(1, 2, 3, 4, 5) == 15.0)
-    assert (sum(5, 5, 5, 5, 5) == 25.0)
-    assert (product(2,2,2,2,2) == 32.0)
-    assert (product(10,0,5,8,7) == 0.0)
-    assert (average(10,4,3,2,1) == 4.0) 
-    assert (average(100,20,10,5,5) == 28.0)
-    assert (largestNumber(1000,5,-1,3,4) == 1000.0)
-    assert (largestNumber(4,3,11,20,80) == 80.0)
-    assert (smallestNumber(0,1,2,3,4,5) == 0.0)
-    assert (smallestNumber(0.5,6,9,3,1) == 0.5)
+def test():
+    assert sum(1, 2, 3, 4, 5) == 15
+    assert sum(5, 5, 5, 5, 5) == 25.0
+    assert product(2, 2, 2, 2, 2) == 32.0
+    assert product(10, 0, 5, 8, 7) == 0.0
+    assert average(10, 4, 3, 2, 1) == 4.0 
+    assert average(100, 20, 10, 5, 5) == 28.0
+    assert largestNumber(1000, 5, -1, 3, 4) == 1000.0
+    assert largestNumber(4, 3, 11, 20, 80) == 80.0
+    assert smallestNumber(0, 1, 2, 3, 4) == 0.0
+    assert smallestNumber(0.5, 6, 9, 3, 1) == 0.5
     print("All test cases passed...")
 
 # Main function
@@ -80,16 +64,16 @@ def main():
     print("Product of", num1, "*" ,num2, "*", num3, "*", num4, "*", num5, "=", product(num1, num2, num3, num4, num5))
 
     # Call average function
-    average(num1, num2, num3, num4, num5)
+    print("The average of ", num2, "+" ,num2, "+", num3, "+", num4, "+", num5, ") / 5 =", average(num1, num2, num3, num4, num5))
 
     # Call largestNumber function
-    largestNumber(num1, num2, num3, num4, num5)
+    print("The largest number: ", largestNumber(num1, num2, num3, num4, num5))
 
     # Call smallestNumber function
-    smallestNumber(num1, num2, num3, num4, num5)
+    print("The smallest number: ", smallestNumber(num1, num2, num3, num4, num5))
 
     # Call test function 
-    test(num1, num2, num3, num4, num5)
+    test()
 
 main()
 
