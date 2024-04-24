@@ -285,10 +285,10 @@ the largest integer and so on (Alice picks first).  |
 | Name | Value |
 | --- | --- |
 | Name: | Fileio2 |
-| Description: | 
+| Description: Program finds frequency of words in pythonclasses.txt. It then lists the top 10 words with the highest frequency. | 
 | Due Date: | 04/25/2024|
-| Status: | In Progress..|
-| Location:  |  
+| Status: | Completed|
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/fileio2/fileio2.py |  
 | Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
 
 ## Lab #9
