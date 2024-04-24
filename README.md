@@ -212,6 +212,17 @@ the largest integer and so on (Alice picks first).  |
 -Ran and verified program results many times. 
 -Grade 100% | 
 
+## Lab #5
+| Name | Value |
+| --- | --- |
+| Name: | Loops - Kattis Problem Oddities https://open.kattis.com/problems/oddities |
+| Description: | The program has the user input a number. The program then asks for user to enter a number N times and tells user if number entered is odd or even.  |
+| Due Date: | 03/24/2024 |
+| Status: | Complete|
+| Location: | https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/loops/oddities.py | 
+| Notes: I completed all the FIXME's. Screenshot of Kattis solution acceptance is attached. Test cases are attached as well.  |
+
+
 ## Lab #6
 | Name | Value |
 | --- | --- |
@@ -268,4 +279,24 @@ the largest integer and so on (Alice picks first).  |
 | Due Date: | 04/18/2024|
 | Status: | Complete|
 | Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/fileio/fileio.py |  
+| Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
+
+## Lab #10
+| Name | Value |
+| --- | --- |
+| Name: | Fileio2 |
+| Description: | 
+| Due Date: | 04/25/2024|
+| Status: | In Progress..|
+| Location:  |  
+| Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
+
+## Lab #9
+| Name | Value |
+| --- | --- |
+| Name: | OOP |
+| Description: | This program creates Class Circle (area, radius and circumference). Class circle has two different functions (findArea() and findCircumference()).
+| Due Date: | 04/27/2024|
+| Status: | Complete|
+| Location:  |  
 | Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
