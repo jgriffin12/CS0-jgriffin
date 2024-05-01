@@ -137,6 +137,19 @@ the largest integer and so on (Alice picks first).  |
    - 3 test cases included. 
    - Grade: 100/100
 
+## Assignment #9 - Dictionary
+| Name | Value |
+| --- | --- |
+| Name: | A New Alphabet - Kattis Problem 
+| Description: | This program translates the old alphabet to the new using user input |
+| Due Date: | 04/|29/2024
+| Status: | Complete |
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/newalphabet/newalphabet.py | 
+| Notes: | Complete|
+| Self Grading: 
+   - 100/100 - Solution accepted on Kattis, screenshot included, 4 test cases, and updated README.
+   
+
 # LABS
 
 ## Lab #1
