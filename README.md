@@ -291,12 +291,12 @@ the largest integer and so on (Alice picks first).  |
 | Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/fileio2/fileio2.py |  
 | Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
 
-## Lab #9
+## Lab #11
 | Name | Value |
 | --- | --- |
 | Name: | OOP |
 | Description: | This program creates Class Circle (area, radius and circumference). Class circle has two different functions (findArea() and findCircumference()).
 | Due Date: | 04/27/2024|
 | Status: | Complete|
-| Location:  |  
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Labs/oop/oop.py |  
 | Notes: FIXME's are all corrected. Program was ran and tested multiple times. |
