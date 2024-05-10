@@ -149,6 +149,17 @@ the largest integer and so on (Alice picks first).  |
 | Self Grading: 
    - 100/100 - Solution accepted on Kattis, screenshot included, 4 test cases, and updated README.
    
+## Assignment #10 - Final Project
+| Name | Value |
+| --- | --- |
+| Name: | Final Project - Harry Potter Hangman
+| Description: | This program is a basic Hangman game with a Harry Potter Twist. |
+| Due Date: | 05/15/2024
+| Status: | Complete |
+| Location: https://github.com/jgriffin12/CS0-jgriffin/blob/main/Assignments/finalproject/final.py | 
+| Notes: | Complete|
+| Self Grading: 
+   - 100/100 - Program reads attached txt file into list/data structure, program continues until user wants to quit, program chooses random word to guess, player is able to win or lose given specific number of tries, and ASCII art is included. 
 
 # LABS
 
