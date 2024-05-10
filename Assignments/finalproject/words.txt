@@ -1,0 +1,20 @@
+wand
+broomstick
+potion
+wizard
+muggle
+quidditch
+Harry Potter
+Hogwarts
+magic
+Gryffindor
+Slytherin
+Voldemort
+Ravenclaw
+Hufflepuff
+Dumbledore
+Hermoine Granger
+Ron Weasley
+Draco Malfoy
+patronus
+horcrux
